@@ -1,0 +1,3 @@
+simulacion.rondas=1000
+simulacion.terreno=tpHormigas.ter
+simulacion.resultado=tpHormigas.res
